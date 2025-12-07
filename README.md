@@ -1,5 +1,20 @@
 # 🤖 Joystick-Controlled Robotic Arm
 
+<img src="images/1.png" alt="Screenshot">
+
+## 📅 Project Timeline & Context
+
+- **Event:** FMEE 2025 – **AI & Robotics Club** Open Day
+- **Date:** November 10–11–12, 2025
+
+---
+
+
+
+---
+
+## 💡 Project Overview
+
 A simple and intuitive robotic arm controlled using **two Arduino joysticks**.  
 The system uses **four servo motors** to provide full movement:  
 - One servo for the **base rotation**  
@@ -7,10 +22,6 @@ The system uses **four servo motors** to provide full movement:
 - One servo for the **end effector/gripper**
 
 This setup allows smooth, manual control and is ideal for learning robotics, kinematics, and Arduino-based motion control.
-
----
-
-## 💡 Project Overview
 
 This project demonstrates how a robotic arm can be manually controlled using two analog joysticks connected to an Arduino Uno.  
 Each joystick axis corresponds to a different servo, giving users direct and natural control over the arm's movements.  
